@@ -27,7 +27,7 @@
 
 **▸ 🔭 Possuo certificação em desenvolvimento Java 13 pela plataforma Udemy "Professor: Leonardo Leitão". </i>**
 
-**▸ 🔭 Meus hobbies são: Pokemon Unite, música, animes, livros, codificação. </i>**
+**▸ 🔭 Meus hobbies são: Jogos eletrônicos, música, animes, livros, codificação. </i>**
 
 <br>
 
