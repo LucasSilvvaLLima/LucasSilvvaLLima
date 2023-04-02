@@ -75,7 +75,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </header>
   
-  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" height='400px' width="550px"/>
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" height='400px' width="400px"/>
   
 <div align="left">
 <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucassilvvallima&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border=14082b" alt="stats">
